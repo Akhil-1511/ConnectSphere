@@ -67,7 +67,9 @@ To get started with ConnectSphere, follow these steps:
 ## Contributors 👥
 
 - Vitta Yaswanth (@vittayaswanth)
+- Gourishetty Akhil(@Akhil-1511)
 - PV Harshavardhan (@pvharshavardhan)
+
 
 ## License 📜
 
